@@ -1,8 +1,6 @@
 # Learn more about this file at https://www.gitpod.io/docs/references/gitpod-yml
 tasks:
-  - init: |
-      npm i -g @nrwl/cli
-      npm i
+  - init: npm install
     command: nx serve deck
 ports:
   - port: 4201
