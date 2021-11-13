@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "deck": "apps/deck",
+    "deck-e2e": "apps/deck-e2e"
+  }
 }
