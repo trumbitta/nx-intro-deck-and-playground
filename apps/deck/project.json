@@ -39,7 +39,8 @@
     "serve": {
       "executor": "@nrwl/web:dev-server",
       "options": {
-        "buildTarget": "deck:build"
+        "buildTarget": "deck:build",
+        "port": 4201
       },
       "configurations": {
         "production": {
