@@ -1,3 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
 # Learn more about this file at https://www.gitpod.io/docs/references/gitpod-yml
 tasks:
   - init: npm install
